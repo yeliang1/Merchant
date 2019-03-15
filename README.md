@@ -1,6 +1,6 @@
 # admin
 
-> A Vue.js project
+> A Vue.js project 示例
 
 ## Build Setup
 
